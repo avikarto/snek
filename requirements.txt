@@ -1,0 +1,2 @@
+python-dotenv  # for loading the local environmental file
+slack_bolt  # for connecting the app to slack
